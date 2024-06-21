@@ -5,4 +5,6 @@ NumPy, Pandas, Matplotlib, seaborn, CSV, Statistics, Math
 
 Download Original Dataset from - https://www.kaggle.com/datasets/tahir1413/global-superstore-2016
 
-Source Code = 
+
+_______JUPYTER NOTEBOOK FILE________
+Source Code = dataSegregation.ipynb
